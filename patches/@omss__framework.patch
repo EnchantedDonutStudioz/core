@@ -1,0 +1,144 @@
+diff --git a/dist/core/server.js b/dist/core/server.js
+index b084b0e4afca3210925ecb4768c6363d98718324..e6633aceb58a32214bc73f0fe57d461aa22dcbd5 100644
+--- a/dist/core/server.js	
++++ b/dist/core/server.js	
+@@ -114,26 +114,33 @@ export class OMSSServer {
+      * Setup routes
+      */
+     setupRoutes() {
++        // Resolve CUSTOM_PATH: strip trailing slashes, ensure leading slash
++        let cp = (process.env.CUSTOM_PATH || '').replace(/\/+$/g, '').trim();
++        if (cp && !cp.startsWith('/')) cp = '/' + cp;
++        const p = cp; // e.g. '' or '/strapi'
+         // Health endpoints
+-        this.app.get('/', this.healthController.getHealth.bind(this.healthController));
+-        this.app.get('/v1', this.healthController.getHealth.bind(this.healthController));
+-        this.app.get('/v1/', this.healthController.getHealth.bind(this.healthController));
+-        this.app.get('/v1/health', this.healthController.getHealth.bind(this.healthController));
++        this.app.get(`${p}/`, this.healthController.getHealth.bind(this.healthController));
++        this.app.get(`${p}/v1`, this.healthController.getHealth.bind(this.healthController));
++        this.app.get(`${p}/v1/`, this.healthController.getHealth.bind(this.healthController));
++        this.app.get(`${p}/v1/health`, this.healthController.getHealth.bind(this.healthController));
+         // Content endpoints
+-        this.app.get('/v1/movies/:id', this.contentController.getMovie.bind(this.contentController));
+-        this.app.get('/v1/tv/:id/seasons/:s/episodes/:e', this.contentController.getTVEpisode.bind(this.contentController));
++        this.app.get(`${p}/v1/movies/:id`, this.contentController.getMovie.bind(this.contentController));
++        this.app.get(`${p}/v1/tv/:id/seasons/:s/episodes/:e`, this.contentController.getTVEpisode.bind(this.contentController));
+         // Refresh endpoint
+-        this.app.get('/v1/refresh/:responseId', this.contentController.refreshSource.bind(this.contentController));
++        this.app.get(`${p}/v1/refresh/:responseId`, this.contentController.refreshSource.bind(this.contentController));
+         // Proxy endpoint
+-        this.app.get('/v1/proxy', this.proxyController.proxy.bind(this.proxyController));
++        this.app.get(`${p}/v1/proxy`, this.proxyController.proxy.bind(this.proxyController));
+         // Stremio addon endpoint
+         if (this.stremioController) {
+-            this.app.get('/stremio/manifest.json', this.stremioController.getManifest.bind(this.stremioController));
+-            this.app.get('/stremio/stream/:type/:id', this.stremioController.getStream.bind(this.stremioController));
++            this.app.get(`${p}/stremio/manifest.json`, this.stremioController.getManifest.bind(this.stremioController));
++            this.app.get(`${p}/stremio/stream/:type/:id`, this.stremioController.getStream.bind(this.stremioController));
+         }
+         if (this.mcpController && this.config.mcp?.enabled) {
+             const path = this.config.mcp.path || '/mcp';
+-            this.app.post(path, this.mcpController.handle.bind(this.mcpController));
++            this.app.post(`${p}${path}`, this.mcpController.handle.bind(this.mcpController));
++        }
++        if (p) {
++            console.log(`[Server] CUSTOM_PATH prefix: ${p}`);
+         }
+         // 404 handler
+         this.app.setNotFoundHandler((request, reply) => {
+@@ -168,6 +175,10 @@ export class OMSSServer {
+             const enabledAddons = addons.filter((a) => a.enabled !== false).length;
+             const mcpStatus = this.config.mcp?.enabled ? 'Enabled' : 'Disabled';
+             const stremioStatus = this.config.stremio?.enableNativeAddon ? `Enabled` : 'Disabled';
++            let cp2 = (process.env.CUSTOM_PATH || '').replace(/\/+$/g, '').trim();
++            if (cp2 && !cp2.startsWith('/')) cp2 = '/' + cp2;
++            const pp = cp2; // prefix for display
++            const customPathLine = pp ? `║  Path:       ${pp.padEnd(42)}║\n` : '';
+             console.log(`
+ ╔════════════════════════════════════════════════════════╗
+ ║                   OMSS Backend Server                  ║
+@@ -175,22 +186,22 @@ export class OMSSServer {
+ ║  Name:       ${this.config.name.padEnd(42)}║
+ ║  Version:    ${this.config.version.padEnd(42)}║
+ ║  Port:       ${port.toString().padEnd(42)}║
+-║  Providers:  ${this.registry ? this.registry['providers'].size.toString().padEnd(42) : '0'.padEnd(42)}║
++${customPathLine}║  Providers:  ${this.registry ? this.registry['providers'].size.toString().padEnd(42) : '0'.padEnd(42)}║
+ ║  Cache:      ${(this.config.cache?.type || 'memory').padEnd(42)}║
+ ║  Stremio:    ${stremioStatus.padEnd(42)}║
+ ║  MCP:        ${mcpStatus.padEnd(42)}║
+ ║  Addons:     ${`${enabledAddons} enabled`.padEnd(42)}║
+ ╠════════════════════════════════════════════════════════╣
+ ║  Endpoints:                                            ║
+-║    GET  /                        - Health check        ║
+-║    GET  /v1/movies/:id           - Movie sources       ║
+-║    GET  /v1/tv/:id/seasons/:s/episodes/:e              ║
++║    GET  ${(pp + '/').padEnd(33)}- Health check        ║
++║    GET  ${(pp + '/v1/movies/:id').padEnd(33)}- Movie sources       ║
++║    GET  ${pp}/v1/tv/:id/seasons/:s/episodes/:e${' '.repeat(Math.max(0, 14 - pp.length))}║
+ ║                                  - TV sources          ║
+-║    GET  /v1/proxy?data=...       - Proxy endpoint      ║
+-║    GET  /v1/refresh/:responseId  - Refresh cache       ║`);
++║    GET  ${(pp + '/v1/proxy?data=...').padEnd(33)}- Proxy endpoint      ║
++║    GET  ${(pp + '/v1/refresh/:responseId').padEnd(33)}- Refresh cache       ║`);
+             if (this.config.stremio?.enableNativeAddon) {
+                 console.log(`║                                                        ║
+-║    GET  /stremio/manifest.json    - Stremio manifest   ║`);
++║    GET  ${(pp + '/stremio/manifest.json').padEnd(34)}- Stremio manifest   ║`);
+             }
+             console.log(`╚════════════════════════════════════════════════════════╝
+ 
+diff --git a/dist/providers/base-provider.js b/dist/providers/base-provider.js
+index 5dfe2b5ef4718e9685d3f2ba035f9c2863de207b..d405765b54428ad9bcc5065b43c1b5dc64ae81a9 100644
+--- a/dist/providers/base-provider.js	
++++ b/dist/providers/base-provider.js	
+@@ -161,6 +161,14 @@ export class BaseProvider {
+     async healthCheck() {
+         return this.enabled;
+     }
++    /**
++     * Helper: Resolve CUSTOM_PATH prefix
++     */
++    static getCustomPath() {
++        let cp = (process.env.CUSTOM_PATH || '').replace(/\/+$/g, '').trim();
++        if (cp && !cp.startsWith('/')) cp = '/' + cp;
++        return cp;
++    }
+     /**
+      * Helper: Create proxy URL with full server address
+      */
+@@ -169,14 +177,16 @@ export class BaseProvider {
+         const data = JSON.stringify({ url: cleanUrl, headers });
+         const encodedData = encodeURIComponent(data);
+         const baseUrl = BaseProvider.getProxyBaseUrl();
+-        return `${baseUrl}/v1/proxy?data=${encodedData}`;
++        const cp = BaseProvider.getCustomPath();
++        return `${baseUrl}${cp}/v1/proxy?data=${encodedData}`;
+     }
+     /**
+      * Helper: Create relative proxy URL (for same-origin requests)
+      */
+     createRelativeProxyUrl(url, headers) {
+         const data = JSON.stringify({ url, headers });
+-        return `/v1/proxy?data=${encodeURIComponent(data)}`;
++        const cp = BaseProvider.getCustomPath();
++        return `${cp}/v1/proxy?data=${encodeURIComponent(data)}`;
+     }
+     /**
+      * Helper: Infer quality from URL or filename
+diff --git a/dist/services/proxy.service.js b/dist/services/proxy.service.js
+index 95ffbac371336eb9a5f8ac720fda738642e4c601..20b7864bea154d169bb420383777b49485e2834c 100644
+--- a/dist/services/proxy.service.js	
++++ b/dist/services/proxy.service.js	
+@@ -307,8 +307,10 @@ export class ProxyService {
+      * ALWAYS includes headers from the original request
+      */
+     createProxyUrl(url, headers) {
++        let cp = (process.env.CUSTOM_PATH || '').replace(/\/+$/g, '').trim();
++        if (cp && !cp.startsWith('/')) cp = '/' + cp;
+         const data = JSON.stringify({ url, headers });
+-        return `/v1/proxy?data=${encodeURIComponent(data)}`;
++        return `${cp}/v1/proxy?data=${encodeURIComponent(data)}`;
+     }
+ }
+ //# sourceMappingURL=proxy.service.js.map

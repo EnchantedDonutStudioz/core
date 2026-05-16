@@ -1,0 +1,4 @@
+allowBuilds:
+  esbuild: true
+patchedDependencies:
+  '@omss/framework': patches/@omss__framework.patch

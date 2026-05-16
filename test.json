@@ -1,0 +1,1562 @@
+{
+    "responseId": "29f865e5-a09e-44a7-a45e-579410c63a17",
+    "expiresAt": "2026-05-14T00:50:58.755Z",
+    "sources": [
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fconvert-h264%2Fd8665d59834274f5da948a373885f97d.mp4%3Fsign%3Dd93c5a8e82c0cb3ab9d1b1649df780a1%26t%3D1778709385%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%2C%22Referer%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%7D%7D",
+            "type": "mp4",
+            "quality": "360",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fdeca9ecf7d766ae02f72a490b139b6f8.mp4%3Fsign%3Daf5acf79cc73da765673a5ccc4f142af%26t%3D1778709641%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%2C%22Referer%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%7D%7D",
+            "type": "mp4",
+            "quality": "480",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fab521ea5806ee6d085bb378a5c8c3900.mp4%3Fsign%3Dc9587e5dbe9a9a66ae4f134540383db4%26t%3D1778710382%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%2C%22Referer%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%7D%7D",
+            "type": "mp4",
+            "quality": "720",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Ffec01ae23d5f0b651edf7780e652e1c8.mp4%3Fsign%3D48cc9347301f45dd41ac65b08d44336d%26t%3D1778711025%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%2C%22Referer%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Flok-lok.cc%2F%22%7D%7D",
+            "type": "mp4",
+            "quality": "1080",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftrendimovies.com%2Ftgstream%2Fstream%2F567236%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%7D%7D",
+            "type": "mp4",
+            "quality": "1080",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftrendimovies.com%2Ftgstream%2Fstream%2F649074%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%7D%7D",
+            "type": "mp4",
+            "quality": "720",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Ffec01ae23d5f0b651edf7780e652e1c8.mp4%3Fsign%3D3d0b9844d57588068047870749035bc6%26t%3D1778707141%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%7D%7D",
+            "type": "mp4",
+            "quality": "1080",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbcdnxw.hakunaymatata.com%2Fresource%2Fab521ea5806ee6d085bb378a5c8c3900.mp4%3Fsign%3D9f038852f052f6974998819c7e312bff%26t%3D1778706206%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2011.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F116.9.4600.52%20Safari%2F537.36%22%2C%22accept%22%3A%22*%2F*%22%2C%22accept-language%22%3A%22en-US%2Cen%3Bq%3D0.1%22%2C%22cache-control%22%3A%22no-cache%22%2C%22pragma%22%3A%22no-cache%22%2C%22sec-ch-ua-mobile%22%3A%22%3F0%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Windows%5C%22%22%2C%22sec-fetch-dest%22%3A%22empty%22%2C%22sec-fetch-mode%22%3A%22cors%22%2C%22sec-fetch-site%22%3A%22same-origin%22%2C%22sec-gpc%22%3A%221%22%7D%7D",
+            "type": "mp4",
+            "quality": "720",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "02moviedownloader",
+                "name": "02MovieDownloader"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcine.su%2Fv1%2Fstream%2Fmaster%2Ftv%2F95557%2F1%2F1.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fcine.su%2Fen%2Fwatch%22%2C%22Origin%22%3A%22https%3A%2F%2Fcine.su%22%7D%7D",
+            "quality": "1080",
+            "type": "hls",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "name": "CineSu",
+                "id": "CineSu"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fstreams.icefy.top%2Fa2e9536765b2cb24f33a64ef12bc6af7%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fstreams.icefy.top%22%2C%22Origin%22%3A%22https%3A%2F%2Fstreams.icefy.top%22%7D%7D",
+            "quality": "1080",
+            "type": "hls",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "name": "Icefy",
+                "id": "Icefy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Feasy.speedsterwave.app%2FgdLxM4sh8OyZE01plBV76A_RkIti_qRoIEEjtTdVaWTIhn0XLymGadNlUWvo502jZHiwwbOPkG0lXJ8-LObvlMplvBGD-DP6Iuw823Lx0Mwbp6F52pNugv8MxIp_fyP2Z4e-P5cNns9nY3Znlavs7nbaS7r2Q9Sepoc9G8JB2F2_iRPfHxoYj6KqL7Uxn3HqNdDN5qH6Biy42h7trPImSFSI0L7Mn4YAnuvViR8boRb5M0qZdxo9UwxbvrSbTw4wB6A0higeZHvZWwjf9mWFbuR76UX7MCQ7mT7kmXrKHXPpvqrB2amK3LbM8C36oI6_547ONYmQki7zuukBpvnvNavWK3mPJHqjZjd8lHctGlSsbdz5cLpxVaxv3OX-JijpzybVAKsuHBQ8tbzy4ogchmlGvJEMc4jLjoB_GMP4kmH4XnPJLwf1WhoyoKWpct7AY6zcXUcWH-dtX8OXT4iGiBlf-H5t_prXNrpy02t8c32PgnlIBKWsDVU0s5lip3-gzVTZH344Kz7WiyxvYQ9bpjsi1kMbdJfy4JmKb6K7HtqJofsW_w_lqPPXZQbEiakBTYNL1wCehlOQxr5A-elBE-T60rSTP3378IDtkQLBv0t5l2E7HNVkgfVpe8sVNggvpWmnZRTPXXGqab7mHJSXMG%2Findex.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "360p",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Feasy.speedsterwave.app%2F9KLTZf4My7fBGdC0m-m74AZUpK-W6LxgKGRgjPu3M2EdjspTYk4mfNCp9X79csbpB1QUOGPfxYrhDJ7CenxX4Ce0RiDdH-DPtKH-vjV0AYwb8h2-5w32IuTAYXByL2yzbT-g3KnXLj8xN6OJoChQwM7PnbuGFYf_B5RVbsSuuEjI370IYBgkTnHaz0WmzAvbfqPcvImqQg1JGrXEiDvCMA8pmtAF9htSUNCo_kAJzREbj96uWHprr9wkepmBHlYQ4TWvjmvOnZci_SaeMC-PC2cbt_ov1Pde8csuvm-D5Z8ej5-aI5NpsOphHB2bWsv_n_qNryDO2amQv0KdH9AVFbMzhnmh62qsFDVPHqDVWkuAp1E0ksvw-woOQlIzBpR1CMHCWmOn8CTBFkoKIvcn3XxJDOPrOeq4-HV5CdJR7aybwkwE5EijkZQEHzM7Ypue1_v8X53dW1VP3J9JijLm9E1Bk1svlaRwaTC4aWKDV2ZyHm9VJd2mZ5DsWLvJneyXh9uNU6Iai0seZjmcWc-ic-5LU3sCyy9hBuRM7tutOm-C-4sVNaaIyFrhfgjOLPA8To65i_pHep7ARZiyo6NKkMCAaMx_tycq0GulnhM2kLsPEFwqSsRyG37qhPhAD8wCPxLVRN0FXaMA5Cn3jaW3W9%2Findex.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "720p",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Feasy.speedsterwave.app%2FSdHwRMXHfE0BXEYdtDScrgw7WDxEE3eDnSKW26Zaeca8hvu6KiPG7qQgK4WzT4Vmmp3RO_TTFGGnFiG8rrjStCuMyQHN93Mc6wXKsp2I2jM3IAzR7KMSaLN9e_HtQ20ZCamrwdzG0pDioR5q3IEFU6AVI7RsXilw-JLQ_xX4HgYxNNOZQD44X2fGsxM4gvPOtn0Rkz6ne_stD0sf33JIt8fDeogH6qDVW06zB0507yM6m4P5VC3nf4ZtGcUTerCCr20QZkPSJSsPdTpcoVaMotT-_C68Bvspoanj6z1KMaVkKhGB62ofXukX-EDwOCiv4U7TF8p4NssYQUy-Gm34KbtfbO7d5xfy8hP73SKnYIWVZ3ZvmUCD31XpeMQMlUDnwU2Fm-TawZmr07Bf1JeZWSYKgcHRlEW6yiO_MWrN142-NUa1g6KlnRdAwgCFjZAG6hJ-WgCVQnP35udHc1BhKTD5Q2xtWGp3XqN_0I2bG9v8qoZoPtf70nRvg7NZlotUyjAm2zgTnd-KOG1lDuxnnKRqF-SZhak7k724G6F9ml_eP3AmDQMlWFmObqvncJVDPAqTsstp9MMcGDuYsrA34jMjHulLnoQuaDNyEVCl9p_6L4a-OK5xr3BJEbzZJK3Xqk92y_ne5Y317xOKhCqHOs%2Findex.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "1080p",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fvideo.m3u8%3Ftype%3Dhls%26q%3Dbi1yYzU3YldudTAyY0I5QnlGNHNCQTpIR0JYMXV4bVZicUUzSWl5bzloV0xRQVpKYjBUVGN3YS1Lcmp2dFVockRmZWJiZFVGRDJQYU0tZ0stbmtRbk1sY3lFY0s0LUk5RjBheHBwa0I0cjFXTkNpVGRnaWZVenhpcWJrV01PTGtibUdRbEI5S0I4b3BpZ05NWTY2VlVMOE1BbnpJZWRiUzExclBkeGFKWXU1QWJJVEhKWUVfUTBWZ0Jzb0gtZl83Qmc%253D%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "360p",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fbold.brucereed2002.workers.dev%2Fvideo.m3u8%3Fq%3DeDUzZG1oUkRTeE9BV0hHTktMNG9nQTptZVREcEs3SXJPdlg5NEZPbnJST1hNVWFBZ3JtdzAtMGc1LTVOYlc2UDYwcVdBcDRiTGwzU2R6Y3RSVDQ0UzlzYzhHSHZFWEI3TXRxM3g3eHFISHRFRDNBTDdicm5Pa2xuRnd6Y2lWc3Zvd2pkZDRtTnkxMEEtbjRSSGpPaTJDZE5qd0Q5WXJZREU2R21yWUxBLXBPUEE%26type%3Dhls%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fp2.vimeos.zip%2Fhls2%2F03%2F00003%2F9kzu8ahb70h5_%2Cn%2Ch%2C.urlset%2Fmaster.m3u8%3Ft%3D7HzodkcDliGIaEad5NxWFUCeP5S5smXsc7SbkKxN9Fs%26s%3D1778707705%26e%3D43200%26v%3D211619946%26srv%3Ds8%26i%3D0.0%26sp%3D0%26r%3De%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fv-mp4.imjoshturner.workers.dev%2Fp%2Fafc7d47f%2Fma9yIsUHLd1oEUKmveBRD_COQArRFEWq91MWDpU_XFGsCmkkh_mryc9fRGp5Itg6ezbTIM9ON_aIN-xDlhYwVvyQ0K183vMwgv9aU0ot90D3Tk1jD1jvclm8DoD1cAPl20DlQ5O2Ms8Wo-JJpD7v8Sr07Hpx_lAgYIbKt32i9Bo4GC-yNmKUTkipdvtpTC45xKjt7l7M6E2nDfALPaMnfLTzNedP6cIE4Bow8xkJcDr01g6RNliWa2-jjTxpXoXcDMdXkLBGIz0KGCtL7iZzBNsCRNcoPEnNUafC14hfwq0WTpQ243BlIpVNEdV8uqg9igYwSsCacOYkWrY-VoRc3AoTPy9OVo23V5CvEP-K6Za1hBdFqWt-j5emyNtyeFbFdUznzck4QLMstxBRHL3Vtv1h1BrwkxJK4oK5W2sqU-seJ4Tbu_Kw3LXbmi6wVtOaGCycLy9FeCC-6epVY7Fc9AAgMGJqRSAS4RyHmwQhOzck7Iqw9K1IVSZyYX2nRbEUT0jUoB69Jxd-MqjKHfMdHVhKPf0iA5bGiurqj2KuWb0.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Referer%22%3A%22https%3A%2F%2Fplayer.videasy.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.videasy.net%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "en",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "Videasy",
+                "name": "Videasy"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fzebi.senpai-stream.club%2Ftv%2F95557%2FS1%2FE1%2Fpremium-vsbb4w%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidnest.fun%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidnest.fun%22%7D%7D",
+            "type": "hls",
+            "quality": "pulse | 1080p | MULTI",
+            "audioTracks": [
+                {
+                    "language": "French",
+                    "label": "fr"
+                }
+            ],
+            "provider": {
+                "id": "vidnest",
+                "name": "VidNest"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fhlmv.tripplestream.online%2Fvideos%2FdOeAceI0b641EU5%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidnest.fun%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidnest.fun%22%7D%7D",
+            "type": "mp4",
+            "quality": "MAIN",
+            "audioTracks": [
+                {
+                    "language": "English",
+                    "label": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidnest",
+                "name": "VidNest"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fgoodstream.cc%2Fstreamsvr%2F_mNsL4NOtL%2F1-15%3Fe%3DNldTSzFNLzVlOGJZWlBwYkhZS1ZmV3U2VFlJanlSVVplQVNMRTN4MXpmRT0U%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidnest.fun%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidnest.fun%22%7D%7D",
+            "type": "hls",
+            "quality": "LS-25",
+            "audioTracks": [
+                {
+                    "language": "English",
+                    "label": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidnest",
+                "name": "VidNest"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fgoodstream.cc%2Fpl%2FdOeAceI0b641EU5%2F0-15%3Fe%3DNldTSzFNLzVlOGJZWlBwYkhZS1ZmV3U2VFlJanlSVVplQVNMRTN4MXpmRT0U%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidnest.fun%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidnest.fun%22%7D%7D",
+            "type": "hls",
+            "quality": "GS-25",
+            "audioTracks": [
+                {
+                    "language": "English",
+                    "label": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidnest",
+                "name": "VidNest"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ffile2%2FDbkyln4Ooz%2B5q48qYZMiczmJADJjc6c0gXDB~N76K84DYZOIq55TTzdpEZMiyEBaDKttIdp9zRRE0pDGqyThm1GYVZxORpl1aX0CiCdSV%2BiS1oCrEaQwSdpdjp6Lr2~dYgmwS578AsU41u2Xg~WELiruxIGWJM3TmhvF6xkpLBI%3D%2FcGxheWxpc3QubTN1OA%3D%3D.m3u8%3Fheaders%3D%7B%5C%22referer%5C%22%3A%5C%22https%3A%2F%2Fvideostr.net%2F%5C%22%2C%5C%22origin%5C%22%3A%5C%22https%3A%2F%2Fvideostr.net%5C%22%7D%26host%3Dhttps%3A%2F%2Faurorabird6.live%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "language": "English",
+                    "label": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidnest",
+                "name": "VidNest"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fstorrrrrrm.site%2Fstream%2F99e50ef771889bd8%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "quality": "1080",
+            "type": "hls",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "vidrock",
+                "name": "VidRock"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Forion.hydrostorm.workers.dev%2Ffile2%2F22dfe425c4d7a0cb5b57eaf1726b5b7c88d434c4f2cffda4aef72c071bceb94b%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "quality": "1080",
+            "type": "hls",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "vidrock",
+                "name": "VidRock"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.neonhorizonworkshops.com%2Fpl%2FH4sIAAAAAAAAAwXB3W6DIBgA0FcC0bbsbqtgo5VtwAfSOwET50_bOZc4n37nJLQ7RZwGkiLcZcnh5I_46NGpJcesQ96_2HFz7WVMxD7pUFDi9nGJrC.jAVI3sLtRfkv8mn7O_fMzoaJmHLVYHjrI8gplHxGJ7QbPPDRlKnZTW6BVx2LuSV.p5pE4i.EdhJLNpMwuNqOlCrz8NfNUBRJRPQh3m7GuMd9uRYk7w..xKVdv40_4Wh8emUVfpIjDuMiEnw1a77LYZnefrpYbsOd1iIa3cjRMc7ZILJSwmAArM40E70ZKvKKz3o0z05uEvJ9jIbBlT3UlLFGkZ84._gIqzzKHBXjfxiEQAHoAjeg_VhL3O0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.wanderlynest.com%2Fpl%2FH4sIAAAAAAAAAwXB3W6DIBgA0FcC0bbsbqtgo5VtwAfSOwET50_bOZc4n37nJLQ7RZwGkiLcZcnh5I_46NGpJcesQ96_2HFz7WVMxD7pUFDi9nGJrC.jAVI3sLtRfkv8mn7O_fMzoaJmHLVYHjrI8gplHxGJ7QbPPDRlKnZTW6BVx2LuSV.p5pE4i.EdhJLNpMwuNqOlCrz8NfNUBRJRPQh3m7GuMd9uRYk7w..xKVdv40_4Wh8emUVfpIjDuMiEnw1a77LYZnefrpYbsOd1iIa3cjRMc7ZILJSwmAArM40E70ZKvKKz3o0z05uEvJ9jIbBlT3UlLFGkZ84._gIqzzKHBXjfxiEQAHoAjeg_VhL3O0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.orchidpixelgardens.com%2Fpl%2FH4sIAAAAAAAAAwXB3W6DIBgA0FcC0bbsbqtgo5VtwAfSOwET50_bOZc4n37nJLQ7RZwGkiLcZcnh5I_46NGpJcesQ96_2HFz7WVMxD7pUFDi9nGJrC.jAVI3sLtRfkv8mn7O_fMzoaJmHLVYHjrI8gplHxGJ7QbPPDRlKnZTW6BVx2LuSV.p5pE4i.EdhJLNpMwuNqOlCrz8NfNUBRJRPQh3m7GuMd9uRYk7w..xKVdv40_4Wh8emUVfpIjDuMiEnw1a77LYZnefrpYbsOd1iIa3cjRMc7ZILJSwmAArM40E70ZKvKKz3o0z05uEvJ9jIbBlT3UlLFGkZ84._gIqzzKHBXjfxiEQAHoAjeg_VhL3O0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.cloudnestra.com%2Fpl%2FH4sIAAAAAAAAAwXB3W6DIBgA0FcC0bbsbqtgo5VtwAfSOwET50_bOZc4n37nJLQ7RZwGkiLcZcnh5I_46NGpJcesQ96_2HFz7WVMxD7pUFDi9nGJrC.jAVI3sLtRfkv8mn7O_fMzoaJmHLVYHjrI8gplHxGJ7QbPPDRlKnZTW6BVx2LuSV.p5pE4i.EdhJLNpMwuNqOlCrz8NfNUBRJRPQh3m7GuMd9uRYk7w..xKVdv40_4Wh8emUVfpIjDuMiEnw1a77LYZnefrpYbsOd1iIa3cjRMc7ZILJSwmAArM40E70ZKvKKz3o0z05uEvJ9jIbBlT3UlLFGkZ84._gIqzzKHBXjfxiEQAHoAjeg_VhL3O0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.neonhorizonworkshops.com%2Fpl%2FH4sIAAAAAAAAAwXBy3KDIBQA0F8SjZnapfVVM5p6EZC7A4ljC5q0MQ3163tOPE7RGB.mcQqMmRLyovXxcCBKTfGkyBS.qgwIMvLLLDxV6femwpMcHNHL9n5Z6ntfOGYW7w2_QRf6Ewu6H1aYnA4ISswMrD9jGaf6K30Y6zZVpHFnjZQCHoYR1eebQI4Fzcbnpbr99Twt6JIH2m4crcl1WaeStx89x98xM1cgN2RrKyG8ErkC4VXt5ABXUdU7ru2zDb0A5iW1MDdlixg5r3p.lAKzMSDytJtz46DnNAnN0ETUQU1FTVQEd1z4qitn1eeW66ht.DIfL0uSQZWqM5_fumGOMWwpCv4NvUtxD5J_DL_mu0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.wanderlynest.com%2Fpl%2FH4sIAAAAAAAAAwXBy3KDIBQA0F8SjZnapfVVM5p6EZC7A4ljC5q0MQ3163tOPE7RGB.mcQqMmRLyovXxcCBKTfGkyBS.qgwIMvLLLDxV6femwpMcHNHL9n5Z6ntfOGYW7w2_QRf6Ewu6H1aYnA4ISswMrD9jGaf6K30Y6zZVpHFnjZQCHoYR1eebQI4Fzcbnpbr99Twt6JIH2m4crcl1WaeStx89x98xM1cgN2RrKyG8ErkC4VXt5ABXUdU7ru2zDb0A5iW1MDdlixg5r3p.lAKzMSDytJtz46DnNAnN0ETUQU1FTVQEd1z4qitn1eeW66ht.DIfL0uSQZWqM5_fumGOMWwpCv4NvUtxD5J_DL_mu0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.orchidpixelgardens.com%2Fpl%2FH4sIAAAAAAAAAwXBy3KDIBQA0F8SjZnapfVVM5p6EZC7A4ljC5q0MQ3163tOPE7RGB.mcQqMmRLyovXxcCBKTfGkyBS.qgwIMvLLLDxV6femwpMcHNHL9n5Z6ntfOGYW7w2_QRf6Ewu6H1aYnA4ISswMrD9jGaf6K30Y6zZVpHFnjZQCHoYR1eebQI4Fzcbnpbr99Twt6JIH2m4crcl1WaeStx89x98xM1cgN2RrKyG8ErkC4VXt5ABXUdU7ru2zDb0A5iW1MDdlixg5r3p.lAKzMSDytJtz46DnNAnN0ETUQU1FTVQEd1z4qitn1eeW66ht.DIfL0uSQZWqM5_fumGOMWwpCv4NvUtxD5J_DL_mu0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Ftmstr3.cloudnestra.com%2Fpl%2FH4sIAAAAAAAAAwXBy3KDIBQA0F8SjZnapfVVM5p6EZC7A4ljC5q0MQ3163tOPE7RGB.mcQqMmRLyovXxcCBKTfGkyBS.qgwIMvLLLDxV6femwpMcHNHL9n5Z6ntfOGYW7w2_QRf6Ewu6H1aYnA4ISswMrD9jGaf6K30Y6zZVpHFnjZQCHoYR1eebQI4Fzcbnpbr99Twt6JIH2m4crcl1WaeStx89x98xM1cgN2RrKyG8ErkC4VXt5ABXUdU7ru2zDb0A5iW1MDdlixg5r3p.lAKzMSDytJtz46DnNAnN0ETUQU1FTVQEd1z4qitn1eeW66ht.DIfL0uSQZWqM5_fumGOMWwpCv4NvUtxD5J_DL_mu0EBAAA-%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Referer%22%3A%22https%3A%2F%2Fcloudnestra.com%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fcloudnestra.com%22%7D%7D",
+            "type": "hls",
+            "quality": "Auto",
+            "audioTracks": [
+                {
+                    "label": "English",
+                    "language": "eng"
+                }
+            ],
+            "provider": {
+                "id": "vidsrc",
+                "name": "VidSrc"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcdn.1shows.app%2Fe%2FFQBOZlRRUVZCQk5H%2Fmaster.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F133.0.7051.98%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fcore.vidzee.wtf%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.vidzee.wtf%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "vidzee",
+                "name": "VidZee"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Frough-sun-c0cb.9-f06.workers.dev%2Ftv%2FU2fLy729ZHX8jpKSiZS3e2ksOuGQyfMSlNhktyh1oiV7U5QEeopAeKXlqNnEq_mt.puTJGxDl%2Findex.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F133.0.7051.98%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fcore.vidzee.wtf%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.vidzee.wtf%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "vidzee",
+                "name": "VidZee"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fs4.phim1280.tv%2F20250222%2FmaqKfDBd%2Findex.m3u8%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F133.0.7051.98%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fcore.vidzee.wtf%2F%22%2C%22Origin%22%3A%22https%3A%2F%2Fplayer.vidzee.wtf%22%7D%7D",
+            "type": "hls",
+            "quality": "unknown",
+            "audioTracks": [
+                {
+                    "language": "vie",
+                    "label": "Vietnamese"
+                }
+            ],
+            "provider": {
+                "id": "vidzee",
+                "name": "VidZee"
+            }
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftoken%3De5bd141e3803994f38740763c47f0fad%26expires%3D1783896638%26h%3D1%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "type": "hls",
+            "quality": "1080p",
+            "audioTracks": [
+                {
+                    "language": "ita",
+                    "label": "Italian"
+                },
+                {
+                    "language": "eng",
+                    "label": "English"
+                }
+            ],
+            "provider": {
+                "id": "vixsrc",
+                "name": "VixSrc"
+            }
+        }
+    ],
+    "subtitles": [
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fara-4.vtt%22%7D",
+            "label": "Arabic",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fchi-42.vtt%22%7D",
+            "label": "Chinese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Feng-2.vtt%22%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Find-21.vtt%22%7D",
+            "label": "Indonesian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fmay-27.vtt%22%7D",
+            "label": "Malay",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fpor-31.vtt%22%7D",
+            "label": "Portuguese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Frus-34.vtt%22%7D",
+            "label": "Russian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ftur-39.vtt%22%7D",
+            "label": "Urdu",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fmsubt%2F2a1083ecfb40c11083f2b6a3276badb6.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9tc3VidC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dau1YjhobBE6riGfVlXXNa3MVhyJJHgz3p--P3vjPlUdwsBT9klNvfjeqNfYiFfGy8Z~l01Vy045ZDq0Sy5jgVQWda58Vaymw9mWKUv1Y39G74BzIr76gexxFjCyAtleMKIHPhyUw8sdXvysTS3ds8up7OcRWd2pb9cDrgXZcZoTxOWRvQBUOHZWhPYIajlhs9LNLNaxA2UZ2dvy~idwaV3aSU~eQEIqU6p0jplxcYfPUsNzqTyQKkeC7vZDPyCBp9h2S55lBaN7bWKF2CC3PZv6nB2~sY3xvbAl49SsMUdKVm5j84Bk0ABIvOGPHeSLl4ya2J73MTGhxxW89w~OE5w__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "বাংলা",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fsubtitle%2F1b72b6e46b34f3217b6dd6ec472c9796.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9zdWJ0aXRsZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dv1KcWaidAO08kiCUxYgIX026jeeQRKzjepBMVzcFucoV2NTX5T2xIKZ6HwdWZDecmJB~rfwKj3AdBNAbimVr7LZDb-73cd1qxbutMekQRM3~46SLzUL0IqE8k9CfeghYp5m5aeIbnwLO3~dDW950rfubn4rwjl~zIItCExlOA-qlPgAIyJsQLJci74GGvzs0YsiVl3J8g0KWN5ArQ6Su~tx83HW-u5e3DwfOuOiCOMBMAMJI-nRpNIVf9~e41XGeZSp1SFRqS1czEba~oKu7yIHA0OA-GlfW~-sFwJj11bYjYpv5g3abaOrRM49OCrHfIBH9w~FsiWazU2H1YavRYA__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "Español",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fmsubt%2F7b12224900a2254ad3cae039a319147b.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9tc3VidC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dau1YjhobBE6riGfVlXXNa3MVhyJJHgz3p--P3vjPlUdwsBT9klNvfjeqNfYiFfGy8Z~l01Vy045ZDq0Sy5jgVQWda58Vaymw9mWKUv1Y39G74BzIr76gexxFjCyAtleMKIHPhyUw8sdXvysTS3ds8up7OcRWd2pb9cDrgXZcZoTxOWRvQBUOHZWhPYIajlhs9LNLNaxA2UZ2dvy~idwaV3aSU~eQEIqU6p0jplxcYfPUsNzqTyQKkeC7vZDPyCBp9h2S55lBaN7bWKF2CC3PZv6nB2~sY3xvbAl49SsMUdKVm5j84Bk0ABIvOGPHeSLl4ya2J73MTGhxxW89w~OE5w__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "Filipino",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fsubtitle%2F8c28c13224a8bb36b5460515fb2fbf7f.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9zdWJ0aXRsZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dv1KcWaidAO08kiCUxYgIX026jeeQRKzjepBMVzcFucoV2NTX5T2xIKZ6HwdWZDecmJB~rfwKj3AdBNAbimVr7LZDb-73cd1qxbutMekQRM3~46SLzUL0IqE8k9CfeghYp5m5aeIbnwLO3~dDW950rfubn4rwjl~zIItCExlOA-qlPgAIyJsQLJci74GGvzs0YsiVl3J8g0KWN5ArQ6Su~tx83HW-u5e3DwfOuOiCOMBMAMJI-nRpNIVf9~e41XGeZSp1SFRqS1czEba~oKu7yIHA0OA-GlfW~-sFwJj11bYjYpv5g3abaOrRM49OCrHfIBH9w~FsiWazU2H1YavRYA__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "Français",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fsubtitle%2Ff5f6c662cfbcfc4492bc99224b011c35.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9zdWJ0aXRsZS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dv1KcWaidAO08kiCUxYgIX026jeeQRKzjepBMVzcFucoV2NTX5T2xIKZ6HwdWZDecmJB~rfwKj3AdBNAbimVr7LZDb-73cd1qxbutMekQRM3~46SLzUL0IqE8k9CfeghYp5m5aeIbnwLO3~dDW950rfubn4rwjl~zIItCExlOA-qlPgAIyJsQLJci74GGvzs0YsiVl3J8g0KWN5ArQ6Su~tx83HW-u5e3DwfOuOiCOMBMAMJI-nRpNIVf9~e41XGeZSp1SFRqS1czEba~oKu7yIHA0OA-GlfW~-sFwJj11bYjYpv5g3abaOrRM49OCrHfIBH9w~FsiWazU2H1YavRYA__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "Indonesian",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcacdn.hakunaymatata.com%2Fmsubt%2Fce42096a76afe69e16ecee16c89699e2.srt%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYWNkbi5oYWt1bmF5bWF0YXRhLmNvbS9tc3VidC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MzE1MDYxfX19XX0_%26Signature%3Dau1YjhobBE6riGfVlXXNa3MVhyJJHgz3p--P3vjPlUdwsBT9klNvfjeqNfYiFfGy8Z~l01Vy045ZDq0Sy5jgVQWda58Vaymw9mWKUv1Y39G74BzIr76gexxFjCyAtleMKIHPhyUw8sdXvysTS3ds8up7OcRWd2pb9cDrgXZcZoTxOWRvQBUOHZWhPYIajlhs9LNLNaxA2UZ2dvy~idwaV3aSU~eQEIqU6p0jplxcYfPUsNzqTyQKkeC7vZDPyCBp9h2S55lBaN7bWKF2CC3PZv6nB2~sY3xvbAl49SsMUdKVm5j84Bk0ABIvOGPHeSLl4ya2J73MTGhxxW89w~OE5w__%26Key-Pair-Id%3DKMHN1LQ1HEUPL%22%7D",
+            "label": "ਪੰਜਾਬੀ",
+            "format": "srt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcc.boopigcdn.com%2F_ms%2F52%2F9b%2F529bb91be25671672e4d7c13c4ed0b41%2Feng-2.vtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "eng",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DM0Z3TExsLWllenp0LTlVRk9iVHVvdzpGN0ZaRjZmcGZWT0MtWkNnT05KU3VVUmNia0x4N1FpZTFraW1WbVFYR0hnVlFmazFVNnhtajRhbzF2T2U2S2h2aFgyTVc1XzBtTXBCcmtwb3JuQTVJdF9QZklkcGpTemtGY3k1N19EbmdrM1NBSmRUemVBczNlU0VvenFpaGZPMTVtODdTV1VpZzFRTGRSX3RWQXlnZlE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Da2daUl84aWV3UVcwNDRYaUt4a0NiZzpidXdHNHFOdnpSRGxaZXZWZHM1a2d0RWlrMVg2c0IyOVZ4MmRRTnhJQ3RqMlBoTlVGX2hackh4cXpXSjJtd211d2RMMkZYSjRzLU1qdUJsMXV5c2dSN3hxbXpDRHFlOVlYSW9zWW1yVkdibnpTcFgxaTZiQWtOZ1JBQ2J1Skl4YmZlRkttYlo4YzRQbXQtR2JJX2dqbmc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DWW5YRUl2eDF6bVZCRmxFcEttbDA4dzpCcG5XNGYtVlg1WUpqQ3BGekNPS0tKamJMY3I1WDl3dVVkMTU1QWtxM2RlNDZjWENmYUprS1dXSWhOY3JoZFQzM2txRVh5QjYxUFUxVk4wUnhFZFZaTFF1OHNwS3pkQkV3b0Z4bEgyc2RhcW96STJlNUZld2lYdlBkWTl1N0dQUTIwdHdpZ1dnbXNBMkU1cjhDT0djOHc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DZ3hRZm04NUwtaTdwLUdOREM2OFJhdzpXTm1TT3lDNHJvZlBpWlFTaFdZRWhNOG1MX2xlTHg5aXJ5TzVDSm10UzdveEZOSjhuMXY3YWk3aE05RjBpU1pmenIxVVBrWjc3bjNJdmkzcFUxYlRhSHBOekludlp0VjJxZzRDSEVra1hzaUtVSUpaYUM1YW5wdGxzSWQwTFJ0ZmtNWnRMLU00TVowbVdWRXlWUkhucGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Polish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DbjhwUWxtUG1TZklxcW4yVmVmcGNFQTpLcXVrZTdITkJrVmstdmNTcXBHYlU3dG40a1g5Z0FSUXo3ZW5HTDV5T014VWs4Nkw0OEZZVkFHMGh6YjNKdE1pZXNKeFFhTjBQeFkwSmFLQzBPUWxyNE1QU2o3bFZXWW9qWDNjbjRnNVFENFVtZE94UTBmOTU1cTJPY0ZfdEVCbmMtZW9PYmR3T2ZpWDNrSVpKRkxucWc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Arabic",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DREdYUkw3LUlkTHVKZDl2c0ZhVVUwdzpXSGIxM1BLdzVJNDhYdFJNdGZVakxOdzFOOVhWME9NMk1vaGZScnpCNS1vczBpNUlLXzVLZC13RjBkQ1JkeFg4cmpqaS00dzlxYjVHd0JPbU9qZ1AtWEV2YWRldlFYbXhadDBpcFR1dVpTbTZwNE1fUGsxN3lrVjdHTVpKazhjVzdudVEtTkxpZWtYVzZCem92Y3B0Y0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Dc1JxcXZrNGQ3VEg3Vk5ELXpjTVNrdzpLMDJodHdlbE5HSjJrX0NqNnJseDRoX05XU2dOODA4eVcyWW93ZmoydEc2NkZ4alJMU0lGckNtUXRRajRpS2MteUNyV2g2UEdiSk11N2ZwN3JYQTJRNDQ0SE1OOGRSUVBpb0NoeERuajVCXzZzTTJ3WkJUYVFIcDQ3dzc2aGk0MXNZbkNNT1dRTmxaXzNDbmxvMm5XY0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Protuguese (BR)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DSi03TWt6SlNsRndlVE9iZ0U0bllXZzpVZVBYNnZIcUhKYXROa1NmQ2UweVBpQ2tEaWFFSk9CS3ZOMm9yR1N5X0VUWE1hcVRQcS01Mnd6eVpqWXczOGFEMGtVcFJoYWQ5Q0hyQjVReXgwRm1GTjVJd1BGZlNIOE9CaWhDbVZ6Wmk5TGFIN1A1emRTQ3BOSy00YU91dmJzN0FkWGtvQmZpNVZTTWJTZWt5cW9OWXc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "French",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DOEdja243SFNDLUVnOVU4S09mdHZJUTplcnlSdkFMMFNNRzY1NGVUSDBOaXNEM1JwYzFWOElPTEZ5RFBPbHc0WGpXdHRGQVMyR3Rxc2RBOVhvMXdOVzNRMDB1M0R4cWl1Vml2ZldxeExoNVpQaXZHc2YxMHZ0YXRNamZrUDJ6a1ViS1lrWUhyTVN3eXd4bTcxQmczN0I4XzBmZVMyeXhTNXo4VUR5c0RseEVPQ3c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Portuguese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DY3FKajJFOXdlNENjM1kyaVNpMUNjUTpjQk1SSkdvcmk0VW8yVWdFejRGWEM0S2JYUHpDZkZiUXc2Nlh2OVRMZjVRMDBaZGlyQUJRRGM0Ni1pbFI4QWRYWkRZemJaM21SakVKclA0d1IzeU5jNDc5UVFwWHR2b0dKcTZQcUpzVTZESm9EMzd4aWtsSV9OWnhEWWlBVHpuZW85a0NDaVVFU0xGeEVIVG5GSEg4cGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hebrew",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Dekk2MFlvUFkwNzRKcnhKNE1ZU04ydzplc0lOaXdlU2ZReXRTVHdQSFpZVUhTT29KNXdCV25QNFM5VHdCanVFa2ZPQ1RDbHd4MHRYWFh1eC1KSWIwaU5MbFFzNUxxQ0lEbS1iMnNmWlBkbGhLMkdiOHZ4TkdCYU9SaldYM2V0Z0Z3R29LWC1rTUo3dlZic3lEOWg0UEdTVUtZODF5ajBjLXhJQ2dzSEpwZkphRkE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Swedish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DOTNEWXdQLWN6TDVoeFFQeGtoaGtRQTpvVXpMR1htVmNSSVJpZGVPREh5SzVZbnQwQmFHZWVMR3ZDVXZOOGN5MU1DWGZsRHgwQ0J2WmdnLVdNcGxqRlR4R0QxNkJ3d1FhNXhvV2QyaG1BMzhmdWF0NmhsUnBxeUZTYW9lWkVOR1ZITTRld21FZVVQWExzcDcxLWpXYnNyaFlKeU1DWFR6WW96TVVfcXdYcFBxTmc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Greek",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTXBhbF9zdWFWX1dONVZMaE4tTVJtUTo3RDhHdnVqSTUyZnIxT0pfcGJ1RUcwdFI0Nk16TWVRQy1CNi1hLWZ1NmNhX2k1ZXdjdmt4N0VPRFQ5NndSZzhDTE52UWVNNWRySFA5R1VXOHpfcjRiU0puNVAxTnlib01UOUhXMGVxN1FHc3ZGSFNucTB2bzZHUDlycWYtbDBFTkFRVUJIeXIxM3FrQ2VPdG1vQ0tZOFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Dutch",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DNVZPbVlmdjJ2dmt0T1BLNWVmV3A5ZzpySFZkbklBU1ctVHB2SzhhR05NMjhSVFFuUnZEUXotZE5jVjA2Mk5sMHplMVRodS0za3BCcV9nNllmRzdVYzlwSm1seVZjdjBPWU1BWTJSOEFqV2hWMkJ6MUFjdHRmZTVjVmp1RkFlTmJ5ZUJuYnlwWmJzem9mZXhRNXFpY0FzWE5uLTh2cnFUd0tldWItcjV3Ykc5V0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Russian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DMzNOSjZIdFNGZ1hPYjZxMGZJQm0yUTpmUkV0azN5Q25mWW9wQy1Pa1RDd3FoeFZWR1dNQ3gyTUxjQ0lTMFEzRDMwbXprMlpxTDdsX1o4ODQ5dHlCTXFueEdZSXN0ZlZmeFVOZGpuTG40N0JWcFBvSG51bi1HQnBUNmI2dDRvN1AtMGJHalNhNGw1ZDFSUlRCVzAtRVFuUTVNMjRDTDRZd2xOekxhbVU3OWlxOGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Finnish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DaGxvWnJrWEMwZHhuYjhVVFJ1aURyUTpjTlhESkIybnI3WUxBbWJ4X2VDZ25mblFXV3JQV184aEMxZzV0Q1l0MXZscEV3Z2ptMXAyN0ZXUGJSZHlqUUE1RmhwLXRBUHFnSXRvTlVvT2NLbm8tZWtBTHFkLUV2dmhEYkFjMWpEa1g0ZU5HV3R6b1JIWUx1emJMTXNWMzdSR1VrN3lDUEgyamdVN3FOQmdfZVh3SFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Croatian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DREFSb3RhcUVDb0w3cjlpcElzeXFjUTpRUVN4TjlpR1ZiaFFPbEh1SlQyNjc0UTdqU1QyR1BMUGk3SlVVZVd1bXFTU1Z5ZHR0UkRISkF4bzFpc3NWMERuTGpieDByZUtMalByLUk4ZnB2a2o3dFlUMFlXWDg5SFFZN1RoUmZCS0lTNHBRT2hhaEd2YzF3Rm9OWWhWdXZzSkwyWjdUY1FiTFVMTU1lelFtbWF3SUE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Tagalog",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DaHdhWE1lanZEd2tXc09Ta3JoaktVQTpqZFpUanp2RmRNaDdUR3RIZjdaVzZ3MGJ2b29GaUMtTno3NWo1a1RDVnd3WUY2azczZGRsRkZjQ2Nyb0ZWQl9Fc19oQmU5dDJPdkhkcVdOODVuRFZBcUc2U3IzblVFcmI5X2NDWm9UZTFPYjV2Z3ZMX3Zyd3o3NGtsc1I0Q1NwLWZVMTc4ZExHbGxoSHEyY0x2WHRxU2c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hungarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DVzViOG45VnM5VU1kSmZKVERvdkdTZzpXcktkN1pabUdudDRDZTlBc1NkVENDekNydW0xTWVJUHVvMlNwb1pyYTV2V1YxWUhfTGFZdUloLVpMb19qR2tIUVpuLVF5eHgyaTZFZ2NGelNES1FPU1pNZ3Z2MVlDcktPTkt1OHQwLXRZRTJVYm5UeGJNTVh0MG04MTY5QTFRY3haeFMxN0hrb2FrSHpqNlJDS24xaVE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Romanian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DZi1iTl90VFNZbEFaOTdXOVVGcHA2QTpaVE9TOEFvR1dNbTVmdmpieEZlYnJOS1BJbGstaldSOGVMN29uX1A1Y0oyR1dXNkNHMEZmWEVycU1SNEo0QlBTemxDZzFZQk1NWmpwOURfLTluNk12dmZSTkJKY0tKUlJaVG1LbklQUXprb3JCaDBKNktCeklBcEFBazhnZjVBMHJ5d0w5VWtfeWxBWjNnSVR4MWM4Tnc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "German",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DWW1OUEt3dEdRMmxRUnVqU0Q1MWptQTpIWGdmNE41aUdtRVJMTC1maVo1S0lHSm0wY1ZVdHN1RGJ1cG5xSkswR1dmbG9NVENJU3dVNm94Y0lHZ1RwWEZxcWNuU3piU1Q4WjMwSkFpdThRMWJZdlRfRWZlMTd5T3M4azB6dzA2NG9vbW5iMmx0Y2VHa3YtY0QySmozWXJRZUtHMHNyZVlSNUtaRTA3OFdXX3U3TUE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Italian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTEl2TndjV2xHYkJVQkRxZnB3alB1Zzp3QjU3MUxIOGdhRmZqNFEtLTdMN05ubzQyLWlmLUY4ZVV2cEV4WFFaRm96emNwMTFLdXh5OG0xRWZ2SkRtLUNVN3gwQzR0eDduOHpqdHF6MEZSbVpTNmUzXzZmanlYd1EzQmlZNUw2ZUJKcDZKOXhUYVZNVzBDOU04MUs4SVFKX1RlMmRBS2xvdFJ1RGd5eDJCc3lWMmc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Malay",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DU1dqRk51c29GcE1STGduM2JiS0p3ZzpOZ2Vnb01udElUSzdaTlJSeDVJejEzM0NrVWUxRDVqWXhOYVVieTR5VWhhaU9ONmxqWnZ1LWNpNktpa0RYYVpiOFlPYkRmVFB4emxGOTVEMjQ0MF9SVFRIVnc3c1h1ZUtra3BNZ01CTnhiNTZaRnR0VEprSmVXcVFLQkYzbkJSUHdSS2JTLXVFZGV1Zl80aTR1Tmk3dFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Czech",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTXByblJQS3RDeDJUX19XVm12OHk5dzpraktjVS1Oc0pTWlpLNlNOSEtObHNucW5LQW9YSVZoT3pDV0RnYk5hWTVXVlVJX2xsQ09IUTNQa2dpUndHTExMaVEwc05PN3l0WWgxUzNCclhKTE43TUhsVVIyNjI2VFFXTjI3OVVLQkI1MFEzWU9WR01YRWw5THNlcGZQYW5hS3ZFRV94QUNUd2xjRmRRUHJvcDIwenc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Japanese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DMlhkUzN4NXo0U1pyRE5VaXI3UldVdzpBYWxfMmIwbWhqejFRQloycnVVRkY5SUFfemlyZlBvMnNEa2VySjRDTmpZbDhBSkpQaWQyTGhTNDRBeklNeHN1bXF0V05GdzFyLWJZdEtSVGZSYW42UHd2b09MV1VpZkN3V3VsNXMwZExrZ0VmZlNhWnpTQUZtdGxNTE8tSnhKNnRiRHl3ZEhuaXdOTmpKY3l1ZkN5OGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Turkish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DQzhnMEQ1a1lhTzBQbWF5b195ejhqdzpQeGw2ZXBXczAwR0dmZ3RuRFNqQnpQTEUtU0pKQ2l5dTRjMXRuMjZRNlBTd3FmNUd0RjVBTDcwWDZxNXZ6cjJmTU9IcHBob0VnMlJpanpNT1ZaTm15NnU1RHNQLUxHc1czUkRadThqc1BfRzEyclRYaVJjRWs1VVFQbENYdFNzb01GZkxNYXdHU0JDaDBsWnlNRUhqdWc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hungarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DRlhSXzA3REkxX05JbUFYVEk4M25mdzpnQi1YN3NPaXJWVWRvR2t6eElhZDJtOGtfcnNGcnNJMm11c0FKVzB2bnFUYlVxbDhoNDJDRmhEVDYtYmM0X2dKVHFnOElOZ19hc2NnUGUybWNXbWFnWUdOR1RjX2J3SjNQWTRGVEcyYkRDTlFNOHQzb01GdnVLTThyRW5pcDdTUGRnWXByTThSRVBmWTJscjMxWmxRRkE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Danish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DLXpsMWRCNU1TejhaczlIX0pCelI5UTpKVW5EeFFLRGpReGJaNG9sV3RUcDVfVVZsNGY4dTRDNDd0MnJGbTVtZ0ZEclBHS3dJM0tEalBHUHNIRjVPd0FRNU5oY1JDRU95cTM2eW5qa1dBdXpNeU94ZkllMTdWODNyRGpaS0p2VlBnZGMwLV9XLXJlSkRaNGhLeVRPR1JOUXNiV1FWTEZjLW9CcF9KWmdIOE1hQ1E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Indonesian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DakN0emhwU1c1UExsLUF6WWJQR3lyQTp5dktvSUY1RXRRcFIwZTI4Y1k5Q25Ld0FfZWFNaHlVOFdrS1EtTUh1MjJCSFhxMWI0YWQ2QXdnUjgtZmV0ZlB2MHV0QzlrSmxtRVh1TWZ3S3RQZGU0QUxCWmlXZU5MenhKT3JLaTBNSmlyazhoWFRJMGd6ZHZFZk1DelhfUVNoc05RS0hmZTJieERhV0lSbWFRbGRlcFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Dutch",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DR3hFTHg2LW5qNnlMZVRRaTVrUjcwUTpIVlBvTTk2c1RJZ1E3bG5TSjhKSHRWZExzdkViT2VwNWNyeHp2Rkk2SHJjT0JPYkxpUC1McHloS0l1OFBoVWlWZjdMVnQ1M09MRGQwSm9LRGlDVmJEdS1wcGJicXcwT3RqMl9scXh6dXdNbG9ybUdzS3RCaVBDdzhKc1BqY1NBdnU2VHJBQU1lbjVkd1p6VEIyV09DOXc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Protuguese (BR)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DRjVQTGRycnRlRVlFZ3hIQTFxdVlmdzpEUW9DdkdXUGpMQ29YLUJkYmsyRjBEaGlyenFpYnVOUEtRMmNfQXJRVU5FTUhBVS16OW1FSWZYRUlNRjJURmhySk1yOFM1TkRfNWNEcUh0OUdSZS1NMEZlOF94QmlvRlV0aVRKVHNXNTI3NXBvNlAtcDhNLW1WSlBTa3A2VGhDRlpqeVhEQW9LR3JvY284dVk4LWRYNWc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Thai",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DXzU2eC1PR1g2UVRpUXFxVkVsZE10UTp0b0tUNW9rNzJOS2RCZTB3OVpVTlRpemtndFRZRlRsYWV6ZzlKaU40TnBENFdmd1lfTzc2M1lRX0lvdWpMVGUtNnpnVDB4T2lJd0NXVmVWeXRwRGU5TkFndE9lcUxkMC0xbGZhY0MwNjRoNEtFeU9KdWJEcjNVVWgzemRuUzJrcWx1UmQxZjBDLUduSE9aNW82dDliclE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Korean",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DNFVQUkp4Y1g3S2IzdGctNThwLXppQTo5RHRjUjhDR0IySS01bEpzVHdnMmc2UVpJSThFRVY4RTA4ZWpBQkFUS3RfZUYxYjB2TVN5RENTcUF2MDBmdzFzN3NBTDhma2UzNG9HTG5VczRMWnpvWDF2LTJxUXlDMDFrZWZlWTNNZXZUSXpsV1JCZE5ORzF4bFhDUXlDbG5JUjlnTXdOeVlFT3l3UnZYLS11SEtkY0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hindi",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DbFJuRVMwLUdlenVjTVQ0X1ZxY3Z5QTo5eTRRSE9oZ3lGNjJHbjJuV004MXNkMmFQREVrZFRDR0dqUTdmdmdmVVktT0JrNDhHazBOSXlPSjZwekxyTk1rNVZvMnNsY3lDR08tZHNYQl95dVdlUEhwTURqR0lIVmJLYzk5WkhOYmk1RG04c3BickpvdFNfWk9Kc3AyQTFNNkJwRHJyMTlYb1Q4SGpvRG5ieGxSeHc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Tamil",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DVEctM2U0aUd4bllZZjRzSHdwSDhHdzpTbHd2cFpJeGFYNTR6ZV9nblM1eW9HV0NtUGhTU2pudGlod2hKVGlEVWt2Rlp0MVBFRF9ZMG1vNEhrZGZhT1ZFVG04YmZPWU12WWtpeXNGQld4VzJkNG5jdGtMVFlzV2tTRUZuV3pxYk5kWkRReVlQS2NIOHc5SjNnSURRRkFJV2ZjSEhaRUhaWnY5WDdJYklqVjZVOVE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Bulgarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DZ0tIVHdxeWRRekQzU3l2a2Zua2RmZzphQVFGazREWkNIOHB4b09tajF2WUZqUWZGZkxTcUlPbXNQbGozMHJ5YlNJNmJNbWZHT0o1ZkV5YU9rM3FLX1g5bDhtRU5rOE43TWFZR1BzdXUzd001V1RJSGpoOEtyc09qNlE3enNVNVVCSUhIQTFlY2s3a1pDNDJPZlJTb2pGLXZKOTJtQUZHTUEtQUc4dkF0LVM0TUE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hungarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DeVl5NkNUelVIYVVYaW1sUDA0anA1UTpfMU56N3k3Y3dsTDlqZ0pneTZxNzY5OFNSMjQydjFCQkN6R0VyemdDNDdmMVdIU184MGp6X1VwbHVkbXlRTzZQR2pHOTQ3azdaLVVUUnFIMHJEWWFyeU1JREtiZGxzekRYQW1pcGRkeGJmQzNhWFNZMl96Q3ltUHB1dEUtNVp3Y2UzLVpydDRiQjZDVFNiZ2RCRWJQb3c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Polish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DZ3JuY1ZveVFMMTlPcUExQjZGdEVTdzppV0tFbFc3MkJDSjd1OHA3Mi1ZaEI5MUMxZW9qOXNZOXNxRmxmSlJHWGdLV2VoNlVUcXZlWWhwa3BORWxzbExsclRlbUFQeWdJSk8zNnJUY01BaUF4NXF0d2Z0ZWljdDFGMmpRQndfRC1nMzVZTFZETGNKVVAtbExWdWpyemJrNGsxUVc1ZV9nVTJNekQyT3o4NFJ2Z2c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "zh-tw",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DSTdKZ083b05GUzdoQl9UdG9hSUpFQTpXS2NUeTlZaG05MDB2MkJsSjNObFZrUWE3NV9MX0x3bTlJajAwVjFtTEV0WEhjSWl1Uy0zR0tGYmk3SThRSkZ0enRYYzBqR1dwWUdVLVAzTlZnOWtxOUcwSjJjRXdMeE8yQ2lRRUlFWFV1X0hjU0hIaGZ2aEhYODNHRUhZMVVKUWFrQ2JyYmJLc0xXdXR2MjJPT25ETFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "sp",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTGthcnJaSWdpYXhNWEZpNjlBd2EzZzpxSzB0Y2tHV1prQUdXbmVJR3NmNGptLVJpckxWZGI2NXVNaUJwdEx3SmNhN01ROUxILTBFdjFVUzViUjlOZG4xcFlNUTZ3V2xobHZRdmQ4VnBqVGFpSjRDc2k1WEdoZmQ0eC1ibTdXekhlWllPMU9VZmEtSmJTa0tTZVJJYVN6QjU5cWJHTC1NbXdDZk9zcHhFSnJuSEE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Norwegian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DYmY3Mk4teDEyVXUwa2d0RUYySlpLdzpOVGFBbFk0bnNaNXczZHFCeHBjWVJTTW53cnVrYWo0bFFTYkUyMVIyOVpjamJuVTFBX3lWb3ZrOUh6bC1LSU1Xd2JIaUZ6VHBlcE5xZVRKcHVLT3JDTlFDSUc1YW1HOHp0MEFyLTlxY1IzOXR0SGFiaXNPX3Q4R29tczFOSGw1TWRDV3I1ckJldWJTcTZpOXQtZzFheUE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Spanish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTW01OTFyUTNBQ20wVEJreHFwQlZyZzpBd2FrdTRtU1JDY3Q1TlVBamJxbGw5eUNHN3VRQ2lEVlhxLUxVWDFjTFN0SEMyYmJmNDU3WHIxODdraUNBOWp1RkpEMklnMWp5cFBmRVlfV3ltYTBxVV8zV0tpcjZRcnFmR3hHcGhQRGFtUXZFRFZTakZTTWxqNllIME9pOFBkYWlYc2pES0ZScWlWTVVTM0NBTlgzX0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Spanish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Dd0FycGpmVnA4Ym5va1hHQmlBUWIxQTplZml5Y2RHTDZYUWZ0TUd4STlqMEE3YjNRN2pmR1RrcW5YUGh1OVlXNXYxdEJhWS13QVR6NHBKeEF0ZG9SeGoxdlB4TFNrYW03Q3RFMGJnckVGTlJ0T2huNy1kRGJqbXFiOWZwRDZKWDZfUXU4NTlvbjZHU3lfdnZjelViR0d0bDk1VFBXa1lJNGJsWlN4YnQ2dzBTWWc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "ea",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DeXAzRzhVV2p5RTBXOTktRUFCNU1RdzpDOVVPQ2xBTGVTMDI5TVNYZDIyc2ZMN2sxTUowdGROTEQ1QkNzNmFpZkFTRjhodlZsX1lobUlDRXpKV2Y0aUZ4cXdNT3FtOEVtU3hQcG9WeHhYQnpva1pvS2lpdkphZU1XU0VnWFZvOHZkM2NiQklDMi13ME9QZ0xHZ05HZENFSzRGVTZqVk8tbVJNTnZHWmM5Zi1oQ0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Russian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DQzRhNDdkVUllLTZjbzBnbXFvM0o3QTpRRnNucHRDbUVJcng3NC1CaTUzQ3VpdFlWWnBsRm1UMGl2UGFpMGRGNzAweElqNkd3YzJZZjhjY25tUHpzUXNLblhBMXFmVmo5R3p3YXBhMXZmV0tBOU1LcmVJYjlLVldPd1Y2WGo2UmItOFJ5U3VxZGF6Z3NfQXJnaThRaDMwOV80T05zVWZRVEJ4b2VKdDlNNFVuUFE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "zh-cn",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DNnVIZm9yME5vSGp2UnVQMzNxWkJUZzpRTGFRa3lrZFhTcW5ua3dTeHFLWFJhYTlMdndfbVNtRHRORnhCMkgxT0k3SW00RlVCS2tkUXhURHkyOEotOWJ4NzZlVzl2bi1uVXd4a2d6TElDMTBiZGRwcjBuQ2M2MlpmX2F2ZENsYmFicFQwRWk3ZFUwQ1FzdnZ4T3ZRdGNNNGMyN0tQVHJmWEdZWFpoeHFqTnJ2aHc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Romanian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DQ0Z4V001el9uVkJvUTlhaHdUakhKQTo5VVRzVXdSSFpIZ2djM3pnbkxOUVo3Sm5wbDVEU2FGdEpZMDhoX0ZpdWlyZUxWRm1wMGxqaUo2aWRkV3lTLU9FeWNfdHhvZFEycHFSNzN1TnRzVWMwQnhscWtUZkhEUk9sZDU1bzRpb2hvbGR6aUxTMVpPbE5KdS14VUlpNTdYaHNGeVU0UWVaemZzTDljVzgweVN4aWc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Persian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DcnpEUEFGcm9fX3pZbnRZYlQtYkV2ZzphckVrTXk4OGQ2Vk91T2l1ZG9uNDl1dHBqMXlSTW1IeWNZZnJiZmYxSDBCLVZTUURCTjQ2QXdjcmR0VkNFcU0xSjNyQ0pyX21oaG1tNGJ0RTV6dTBzUTZvQUFPXzlIbTdyTDdyN0l3ZFVqeHhuZlI1Ui1RdkZTcWt2RDVRNndKTE91SWZXQVhpYjhSNEdjakF0X21ob0E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Persian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DakV1QnpxRGJSTGI2ckpIVUNfY2FpdzpFekZTNzFqNG1Dd3R1aHNtRG1MQ2pabk8zWm5xblhLRTJ5QXhmSl9pR3gwc0RVNUJCb2tmN3hpQjE3Vk9obVRGcU81NG1xNVMzazFOY1lSQlJaMVdlOUVjbDloSVhxcXpwZGRjMGMyVXlWcjFwX29HTVFDQnJJVXVpdmFGaHZPY05xdmZ3eHptN3pKM2NaYjNzd2ZZS3c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Greek",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DOUxBbWU0U3RydEY2cE11N3FFUWdLZzpDeDJCYXkwWTQxRklPcjNvbmtRQWtaME1ydU8yaTh5V2o2T0Jzbm5Fb0cwUTRTdzNlMFc1LWVUQzl0UWRzZFVvMmRQU2RTNWNZVWVfd0JreTFyRjRITlFjb1hVUHVKOGJscVYxYVAyT0owdlZHX00wM3VXSmJsYkQzX0J0QmF1SVJqS1ZxNlhiUjNwMlJwSE5VeXU3cnc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Vietnamese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DR3pEQlBaX3pNb0NlNnB3ajRJRXlmQTo0azNMcHU1MXJWUXFEeHZoXzAxd3NuRzhRbzJWQ0EzVHNPTzVJZHdqRXRNZTdSbkJjVnN3OEp2VTRTbTVURnFxNDdaaVBVMzVGYlFBNVpXc3A0c05iSzdmUzRzTVd4Q0ZuMjhNSjdZZ2dyd1BGZktUMXVXQXl5djA0VHRqQTgwOFNUN1VaYkZ4NjZ3alloR0xud0M4b1E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Vietnamese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DTDFmc014MDdpYUZjTF9yRWY4bWw1QTpnRGxHYzR5Mm1XT0VZaVAyS241a1kxWlZObk9aR2JJUUxhUlU5TFMwc0hGOE9ibDd6aV9vTGdyRGFFVVpHTm1WbGQxMEFaUnNsSnBNR3FrSi0yTXlMMFFndkljd0J4V0g5R25vdUVzekRGeXNjbm4zejBLOG5kejgtSTJnY1JfN2xvTkRPRWZ2Y3JNVWpZaDY4SkNzN1E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Estonian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DM2RGbnNsclBuNGhTUDRUOF8ycktYUToxMGdROFBHLTdMOFFfOHBhZ1RkcmpxRkFEX3duVl9CenFkQ3JsNk4xb2FGdFNYbEo4WHRHS3pISDBfOGFtUmo4ckhZdm1NZjNLSl93YS1EbjVuTTdQR0FmOVdjQ1NwLXpVcEN3Qmh2YWhvQ1BJaVpXcG5qdzE0YVBOQjhNSE5uQzNvYkIxWDQwTkJiaUQ4cTV4VS0zOHc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Estonian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DWFZQeGJfa2NSMnN3Y1o1c3lVUkdrdzpBLWdxWWloUlBXYTRwc013a1RBZ0NBWi1lQ2R2and1allHeG9zR3pQYk1UblRTSjZSMVJ2bFRCUUZ2U1QycFFHb2oyc3ByTjZuQjlueHFmRzhXS2NIRVAwc2ZUWHRYSVRfbzNzSHQ1MEN1TWI1QVpRVDJtSmxBMlVjaDRvQzNaYm5YQktOcW56VEUxNEdmN2VfZWtTcGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Arabic",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Db3lrOUFSa3pqc1ppU01vWWtfbXNJZzptaXhKME90eG9wSVhncTFORkJfeUVxX3VVNW9GaG5FNXQ1WDZWX3pvcWZoaUlLUnlIa1plR2liVGdsbzRFbDAySXBpeExMZzlHMkZFdjYtZklxUFg4LXljZjFGQWRYdHZQZzVEVFFkMS1pTXQtdWRMOThjUTZ4d0kwRm9Ba0pETkZicGlzYjlCbnVOZFRnWjQwR1JzV3c%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Hebrew",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DWi1rbTg5Y3NtX1ZlU01SU0xyZ3lPZzpnQ3VaR1U3Y3Nxb2FfVjRTNWdjY21URTRmWElvblNnM3VhRU5DbHM2cl9GRmVXaFNCVWRQWGY3WmNPTHdGUjAteGpFZ05yVnN1bmVYSElXOFd6MHFFMDVEZTRYVWVYNzhGeGRjRmR4UFo1bWxQV2FQV0xIN2h5cWNpTENMSDNSWGZYSFZmTlVpeGZ1UnBJTWtCb1FLOGc%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "French",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3Dd09uYnN3WVNaNHBFd1JtTWJQRDBzUTp4ZWhtQkVTbmxxc04wR29QX2VueHlpT0Q3bWF2YlNHRkhJclhoRnNCYWh4VWFocTVYUFM4QjlLcWhfRmRpb29kcnFQOVBnTDZRYWdtYjNmbjd6WUIwOFZMVzF2ckpRMjItZjRySjA3dU4zZTdtekktdWhpR3pmS0VOXzRqRDJkancyeFdGVVRjRWJfaWNpQUtIZlhJUVE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Ukrainian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DUzhDY2xkai1DQ1RhTHFuN1JLZ1BZdzpHMUktR1pxaVhMV0gzeDFtWmRrVFJUYW9VeURsajRSbnN0bmJlbFRITXNlNmdkd25IdlUybE9LLWY4Zlo1bG1LS0ZuckZXOVo1NUNfVU5pWVJNZk9EVUhHbExGS1ltOXhUbi1tOFJnUUxISjhpTVBZYV9ZUnpvRFJqcmtCWVVXLWpINWlJOWViMXJTNW9sZVdfaHNMWkE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Vietnamese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DNGM5N0NHWWpGb2FWVDdyaVB5bEk3QTpORWd4Z2hVNFZSUENJRllIeFVQZnNsendPRXlUSnFkUUNuc1FKYTlYQlRDWDQ0dVhqVUl2dmp5ajRSbmF5YlhGbzdZTjBfUG02YmNsMEl6TDNqckhkR2pfQ0JMeWkxVjJFSDQxM3pHYnpsODU2Wk9TZ3REOHNGVDZoU2lQRUVvQTZmd3NDbTBhZ3JmTjIzcllPdlh0TlE%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Italian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fyoru.midwesteagle.com%2Fsubtitle.vtt%3Fq%3DRFlIemRpMVRWeWRpTC1ueENESW5SdzpnQmlUSUpaZHBETy1XZnNZWjJ1b3VsUUNLczE3bkQ3dXR4d0FOZC1nNnBMNG40QWo3LURqc2QyazdYcjhzWFZMd1NpT3dmb1RYQjh2cEZuUENmX1I0cFlpZUJjN0VqTXBkYW9TSHhsc2dRaHNMRXNmdFdTcE1HQV81QmJuSmVkVmd0R2FNQjBMRzJTdDJFNEdSejk2c1E%26type%3Dvtt%22%2C%22headers%22%3A%7B%7D%7D",
+            "label": "Indonesian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fbaq-12.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Basque",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fcat-5.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Catalan",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fchi-43.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Chinese - Chinese (Traditional)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fcze-6.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Czech",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fdan-7.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Danish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fdut-29.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Dutch",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Feng-3.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "English - SDH",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ffin-13.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Finnish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ffre-15.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "French - French (Canada)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ffre-16.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "French - French (France)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fglg-17.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Galician",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fger-8.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "German",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fgre-9.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Greek",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fheb-18.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Hebrew",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fhin-19.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Hindi",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fhun-20.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Hungarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fita-22.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Italian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fjpn-23.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Japanese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fkan-24.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Kannada",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fkor-25.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Korean",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fmal-26.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Malayalam",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fnob-28.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Norwegian Bokmål",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fpol-30.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Polish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fpor-32.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Portuguese - Portuguese (Portugal)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Frum-33.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Romanian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fspa-10.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Spanish - Spanish (Latin America)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fspa-11.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Spanish - Spanish (Spain)",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fswe-35.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Swedish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ftam-36.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Tamil",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ftel-37.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Telugu",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Ftha-38.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Thai",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcca.megafiles.store%2F3d%2Ff1%2F3df188a130048e25c1bce1facb338c52%2Fukr-40.vtt%22%2C%22headers%22%3A%7B%22Accept%22%3A%22application%2Fjson%2C*%2F*%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Connection%22%3A%22keep-alive%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidlink.pro%22%2C%22Referer%22%3A%22https%3A%2F%2Fvidlink.pro%2F%22%2C%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Safari%2F537.36%22%7D%7D",
+            "label": "Ukrainian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FArabic.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Arabic"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FArabic.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Arabic 2"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FBasque.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Basque"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FBengali.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Bengali"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FCatalan.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Catalan"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FChinese.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Chinese"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FChinese%20-%20Chinese%20(Simplified).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Chinese - Chinese (Simplified)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FChinese%20-%20Chinese%20(Traditional).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Chinese - Chinese (Traditional)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FCzech.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Czech"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FDanish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Danish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FDutch.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Dutch"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FEnglish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "English"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FEnglish%20-%20SDH.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "English - SDH"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FEnglish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "English 2"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FFilipino.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Filipino"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FFinnish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Finnish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FFrench.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "French"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FFrench%20-%20French%20(Canada).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "French - French (Canada)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FFrench%20-%20French%20(France).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "French - French (France)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FGalician.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Galician"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FGerman.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "German"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FGreek.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Greek"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FHebrew.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Hebrew"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FHindi.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Hindi"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FHungarian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Hungarian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FIndonesian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Indonesian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FIndonesian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Indonesian 2"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FItalian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Italian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FJapanese.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Japanese"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FKannada.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Kannada"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FKorean.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Korean"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FMalay.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Malay"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FMalay.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Malay 2"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FMalayalam.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Malayalam"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FNorwegian%20Bokm%C3%A5l.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Norwegian Bokmål"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FPanjabi.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Panjabi"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FPolish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Polish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FPortuguese.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Portuguese"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FPortuguese%20-%20Portuguese%20(Brazil).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Portuguese - Portuguese (Brazil)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FPortuguese%20-%20Portuguese%20(Portugal).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Portuguese - Portuguese (Portugal)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FRomanian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Romanian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FRussian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Russian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FRussian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Russian 2"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FSpanish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Spanish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FSpanish%20-%20Spanish%20(Latin%20America).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Spanish - Spanish (Latin America)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FSpanish%20-%20Spanish%20(Spain).vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Spanish - Spanish (Spain)"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FSwedish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Swedish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FTamil.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Tamil"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FTelugu.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Telugu"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FThai.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Thai"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FTurkish.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Turkish"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv3%2Ftv%2F95557%2F1%2F1%2FUkrainian.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Ukrainian"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fcache.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%2FUrdu.vtt%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fsub.vdrk.site%2Fv2%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvidrock.net%2F%22%7D%7D",
+            "format": "vtt",
+            "label": "Urdu"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Deng%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "English",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dara%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Arabic",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dcat%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Catalan",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dcze%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Czech",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Ddan%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Danish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dger%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "German",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dgre%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Greek",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dspa%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Spanish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dbaq%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Basque",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dfin%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Finnish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dfil%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Filipino",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dfre%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "French",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dglg%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Galician",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dheb%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Hebrew",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dhin%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Hindi",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dhun%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Hungarian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dind%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Indonesian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dforced-ita%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Italian [Forced]",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dita%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Italian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Djpn%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Japanese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dkan%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Kannada",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dkor%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Korean",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dmal%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Malayalam",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dmay%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Malay",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dnob%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Norwegian Bokmål",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Ddut%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Dutch",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dpol%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Polish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dpor%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Portuguese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Drum%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Romanian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Drus%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Russian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dswe%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Swedish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dtam%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Tamil",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dtel%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Telugu",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dtha%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Thai",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dtur%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Turkish",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dukr%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Ukrainian",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dvie%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Vietnamese",
+            "format": "vtt"
+        },
+        {
+            "url": "http://localhost:3000/v1/proxy?data=%7B%22url%22%3A%22https%3A%2F%2Fvixsrc.to%2Fplaylist%2F170072%3Ftype%3Dsubtitle%26rendition%3Dchi%26token%3DCMzJer5QEie8rtZ8Fr71DQ%26expires%3D1783896638%26edge%3Dsc-u5-01%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F150%20Safari%2F537.36%22%2C%22Accept%22%3A%22application%2Fjson%2C%20text%2Fjavascript%2C%20*%2F*%3B%20q%3D0.01%22%2C%22Accept-Language%22%3A%22en-US%2Cen%3Bq%3D0.9%22%2C%22Referer%22%3A%22https%3A%2F%2Fvixsrc.to%2Fapi%2Ftv%2F95557%2F1%2F1%22%2C%22Origin%22%3A%22https%3A%2F%2Fvixsrc.to%22%7D%7D",
+            "label": "Chinese",
+            "format": "vtt"
+        }
+    ],
+    "diagnostics": [
+        {
+            "code": "PROVIDER_ERROR",
+            "message": "Peachify: all peachify servers returned no sources",
+            "field": "",
+            "severity": "error"
+        },
+        {
+            "code": "PROVIDER_ERROR",
+            "message": "MafiaEmbed: Invalid API response",
+            "field": "",
+            "severity": "error"
+        },
+        {
+            "code": "PARTIAL_SCRAPE",
+            "message": "Only 9 of 12 providers returned results",
+            "field": "",
+            "severity": "warning"
+        }
+    ]
+}
