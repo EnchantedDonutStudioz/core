@@ -1,5 +1,5 @@
 diff --git a/dist/core/server.js b/dist/core/server.js
-index b084b0e4afca3210925ecb4768c6363d98718324..e6633aceb58a32214bc73f0fe57d461aa22dcbd5 100644
+index b084b0e4afca3210925ecb4768c6363d98718324..a971172b36c282f0ba24a77b99bcfef11cf9d35b 100644
 --- a/dist/core/server.js	
 +++ b/dist/core/server.js	
 @@ -114,26 +114,33 @@ export class OMSSServer {
@@ -47,23 +47,25 @@ index b084b0e4afca3210925ecb4768c6363d98718324..e6633aceb58a32214bc73f0fe57d461a
          }
          // 404 handler
          this.app.setNotFoundHandler((request, reply) => {
-@@ -168,6 +175,10 @@ export class OMSSServer {
+@@ -168,6 +175,12 @@ export class OMSSServer {
              const enabledAddons = addons.filter((a) => a.enabled !== false).length;
              const mcpStatus = this.config.mcp?.enabled ? 'Enabled' : 'Disabled';
              const stremioStatus = this.config.stremio?.enableNativeAddon ? `Enabled` : 'Disabled';
 +            let cp2 = (process.env.CUSTOM_PATH || '').replace(/\/+$/g, '').trim();
 +            if (cp2 && !cp2.startsWith('/')) cp2 = '/' + cp2;
 +            const pp = cp2; // prefix for display
++            const usePath = (process.env.USE_PATH || '').toLowerCase() === 'true';
 +            const customPathLine = pp ? `║  Path:       ${pp.padEnd(42)}║\n` : '';
++            const usePathLine = usePath ? `║  USE_PATH:   ${'Enabled (reverse proxy mode)'.padEnd(42)}║\n` : '';
              console.log(`
  ╔════════════════════════════════════════════════════════╗
  ║                   OMSS Backend Server                  ║
-@@ -175,22 +186,22 @@ export class OMSSServer {
+@@ -175,22 +188,22 @@ export class OMSSServer {
  ║  Name:       ${this.config.name.padEnd(42)}║
  ║  Version:    ${this.config.version.padEnd(42)}║
  ║  Port:       ${port.toString().padEnd(42)}║
 -║  Providers:  ${this.registry ? this.registry['providers'].size.toString().padEnd(42) : '0'.padEnd(42)}║
-+${customPathLine}║  Providers:  ${this.registry ? this.registry['providers'].size.toString().padEnd(42) : '0'.padEnd(42)}║
++${customPathLine}${usePathLine}║  Providers:  ${this.registry ? this.registry['providers'].size.toString().padEnd(42) : '0'.padEnd(42)}║
  ║  Cache:      ${(this.config.cache?.type || 'memory').padEnd(42)}║
  ║  Stremio:    ${stremioStatus.padEnd(42)}║
  ║  MCP:        ${mcpStatus.padEnd(42)}║
@@ -89,10 +91,10 @@ index b084b0e4afca3210925ecb4768c6363d98718324..e6633aceb58a32214bc73f0fe57d461a
              console.log(`╚════════════════════════════════════════════════════════╝
  
 diff --git a/dist/providers/base-provider.js b/dist/providers/base-provider.js
-index 5dfe2b5ef4718e9685d3f2ba035f9c2863de207b..d405765b54428ad9bcc5065b43c1b5dc64ae81a9 100644
+index 5dfe2b5ef4718e9685d3f2ba035f9c2863de207b..9d931c9afcbe1934013caca1e3a55ba3ce604c12 100644
 --- a/dist/providers/base-provider.js	
 +++ b/dist/providers/base-provider.js	
-@@ -161,6 +161,14 @@ export class BaseProvider {
+@@ -161,22 +161,42 @@ export class BaseProvider {
      async healthCheck() {
          return this.enabled;
      }
@@ -104,15 +106,26 @@ index 5dfe2b5ef4718e9685d3f2ba035f9c2863de207b..d405765b54428ad9bcc5065b43c1b5dc
 +        if (cp && !cp.startsWith('/')) cp = '/' + cp;
 +        return cp;
 +    }
++    /**
++     * Helper: Check if USE_PATH mode is enabled (reverse proxy mode)
++     */
++    static getUsePath() {
++        return (process.env.USE_PATH || '').toLowerCase() === 'true';
++    }
      /**
       * Helper: Create proxy URL with full server address
++     * When USE_PATH=true, returns relative URL (for reverse proxy setups)
       */
-@@ -169,14 +177,16 @@ export class BaseProvider {
+     createProxyUrl(url, headers) {
+         const cleanUrl = this.cleanThirdPartyProxy(url);
          const data = JSON.stringify({ url: cleanUrl, headers });
          const encodedData = encodeURIComponent(data);
++        const cp = BaseProvider.getCustomPath();
++        if (BaseProvider.getUsePath()) {
++            return `${cp}/v1/proxy?data=${encodedData}`;
++        }
          const baseUrl = BaseProvider.getProxyBaseUrl();
 -        return `${baseUrl}/v1/proxy?data=${encodedData}`;
-+        const cp = BaseProvider.getCustomPath();
 +        return `${baseUrl}${cp}/v1/proxy?data=${encodedData}`;
      }
      /**
@@ -142,3 +155,18 @@ index 95ffbac371336eb9a5f8ac720fda738642e4c601..20b7864bea154d169bb420383777b494
      }
  }
  //# sourceMappingURL=proxy.service.js.map
+\ No newline at end of file
+diff --git a/dist/services/stremio.service.js b/dist/services/stremio.service.js
+index 0a560edfe66d985c29cdd4a62f422b0e5480404f..85ae8909c6d44a517e27c0f021697c15afeec913 100644
+--- a/dist/services/stremio.service.js	
++++ b/dist/services/stremio.service.js	
+@@ -83,7 +83,8 @@ export class StremioService {
+                     console.debug(`[StremioService] Skipping non-HTTPS stream from '${safeId(r.addonId)}': ${stream.url}`);
+                     continue;
+                 }
+-                let url = BaseProvider.getProxyBaseUrl();
++                const usePath = (process.env.USE_PATH || '').toLowerCase() === 'true';
++                let url = usePath ? '' : BaseProvider.getProxyBaseUrl();
+                 if (stream.behaviorHints?.proxyHeaders?.request) {
+                     url += this.proxyService.createProxyUrl(stream.url, stream.behaviorHints.proxyHeaders.request);
+                 }

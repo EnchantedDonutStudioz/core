@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 patchedDependencies:
-  '@omss/framework': 4c244997d56e7e81762606add39d18ed153a25b3fdd899f44102e73df20dc02e
+  '@omss/framework': b61281af04207cf5054b5770a5ab46dce84e0002306196eb8f433f4b726dfa44
 
 importers:
 
@@ -13,7 +13,7 @@ importers:
     dependencies:
       '@omss/framework':
         specifier: ^1.1.19
-        version: 1.1.22(patch_hash=4c244997d56e7e81762606add39d18ed153a25b3fdd899f44102e73df20dc02e)(typescript@5.9.3)
+        version: 1.1.22(patch_hash=b61281af04207cf5054b5770a5ab46dce84e0002306196eb8f433f4b726dfa44)(typescript@5.9.3)
       cheerio:
         specifier: ^1.2.0
         version: 1.2.0
@@ -662,7 +662,7 @@ snapshots:
 
   '@ioredis/commands@1.5.1': {}
 
-  '@omss/framework@1.1.22(patch_hash=4c244997d56e7e81762606add39d18ed153a25b3fdd899f44102e73df20dc02e)(typescript@5.9.3)':
+  '@omss/framework@1.1.22(patch_hash=b61281af04207cf5054b5770a5ab46dce84e0002306196eb8f433f4b726dfa44)(typescript@5.9.3)':
     dependencies:
       '@fastify/cors': 11.2.0
       dotenv: 17.4.2
